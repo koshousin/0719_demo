@@ -1,5 +1,2 @@
 master
 test
-welcome to github !
-I'm updating !
-I'm updating too !
