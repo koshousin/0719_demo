@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e73559a9-018f-445a-99c2-2f22f4831ec2" name="Default Changelist" comment="fixing">
+      <change afterPath="$PROJECT_DIR$/../myblog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myblog/.idea/myblog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myblog/index.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../myblog" />
+  </component>
+  <component name="ProjectId" id="1hcYel13l6X6OGzaiL4szPsLvml" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myblog" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e73559a9-018f-445a-99c2-2f22f4831ec2" name="Default Changelist" comment="" />
+      <created>1600311944948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600311944948</updated>
+      <workItem from="1600311946947" duration="3718000" />
+      <workItem from="1600419641162" duration="2934000" />
+    </task>
+    <task id="LOCAL-00001" summary="ignored files">
+      <created>1600312815539</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600312815539</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add H5 and CSS">
+      <created>1600313143742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600313143742</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixing">
+      <created>1600313696150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600313696150</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixing">
+      <created>1600313958723</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600313958723</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixing">
+      <created>1600419791952</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600419791952</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ignored files" />
+    <MESSAGE value="add H5 and CSS" />
+    <MESSAGE value="fixing" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="155" key="FileChooserDialogImpl" timestamp="1600419661294">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="421" y="155" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1600419661294" />
+    <state x="121" y="64" key="MergeDialog" timestamp="1600313788992">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="121" y="64" key="MergeDialog/0.0.1280.800@0.0.1280.800" timestamp="1600313788992" />
+    <state x="276" y="161" key="MultipleFileMergeDialog" timestamp="1600313789016">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="276" y="161" key="MultipleFileMergeDialog/0.0.1280.800@0.0.1280.800" timestamp="1600313789016" />
+    <state x="452" y="102" key="RollbackChangesDialog" timestamp="1600314102280">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="452" y="102" key="RollbackChangesDialog/0.0.1280.800@0.0.1280.800" timestamp="1600314102280" />
+    <state x="240" y="208" key="Vcs.Push.Dialog.v2" timestamp="1600419807766">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="208" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1600419807766" />
+    <state x="448" y="313" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600420420484">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="448" y="313" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1600420420484" />
+  </component>
+</project>
